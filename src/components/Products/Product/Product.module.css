@@ -1,0 +1,18 @@
+.Product {
+    width: 90%;
+    margin: 6px auto;
+    
+}
+
+.CardImg {
+    max-height: 400px;
+    max-width: 400px;
+    padding: 10px;
+}
+
+.CardProducto {
+    margin: 10px;
+    padding: 10px;
+    
+}
+

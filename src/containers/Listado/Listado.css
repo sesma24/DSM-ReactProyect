@@ -1,0 +1,19 @@
+.Listado {
+    text-align: center;
+  }
+
+.Lista{
+
+  }
+
+.Totales{
+  background-color:tan;
+  border:grey;
+}
+
+.ValorTotal{
+  font-size: larger;
+  border-style: double;
+}
+
+
